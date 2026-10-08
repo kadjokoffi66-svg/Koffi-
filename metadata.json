@@ -1,0 +1,6 @@
+{
+  "name": "Investissement Mobile FCFA",
+  "description": "Plateforme d'investissement mobile avec plans 3j/5j/30j/90j, paiements Wave Marchand, MTN Money (+225 05 76 14 02 20) et Moov, parrainage et tableau de bord complet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
